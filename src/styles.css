@@ -47,6 +47,7 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: "DM Sans", sans-serif;
+  position: relative;
 }
 
 a {
@@ -58,6 +59,7 @@ a {
 /* =========================
    BACKGROUND GRID
    ========================= */
+
 
 body::before {
   content: "";
