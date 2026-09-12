@@ -67,8 +67,8 @@ function App() {
             <div className="proficiency">
               <div className="panel-title">SELF-ASSESSED PROFICIENCY</div>
               {[
-                ["Python", 92],
-                ["Pandas", 84],
+                ["Python", 85],
+                ["Pandas", 80],
                 ["PyTorch", 68],
                 ["SQL", 65],
                 ["Tableau", 45]
@@ -111,10 +111,11 @@ function App() {
             </p>
 
             <p className="section-description">
-              I'm especially interested in using data to create solutions that
-              have a meaningful impact on people's lives, whether that's improving
-              how we understand health data, uncovering patterns, or making complex
-              information easier to understand.
+              I'm especially interested in using technology to create solutions 
+              that have a meaningful impact, whether that's uncovering patterns 
+              in health data, making complex information easier to understand, or 
+              helping people solve technical problems. I enjoy the process of taking 
+              something complicated and finding a practical way to make it more useful.
             </p>
           </div>
         </section>
@@ -180,9 +181,12 @@ function App() {
             </div>
 
             <div className="skill-category">
-              <h3>DATABASES</h3>
+              <h3>IT / SUPPORT</h3>
               <div className="skill-tags">
-                <span>SQL Server</span>
+                <span>Remote Desktop</span>
+                <span>Ticketing Systems</span>
+                <span>Root-Cause Analysis</span>
+                <span>Help Desk Support</span>
               </div>
             </div>
 
