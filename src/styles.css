@@ -89,8 +89,6 @@ body::before {
     black,
     transparent 85%
   );
-
-  z-index: 0;
 }
 
 
@@ -100,8 +98,6 @@ body::before {
 
 .site {
   min-height: 100vh;
-  position: relative;
-  z-index: 1;
 }
 
 
