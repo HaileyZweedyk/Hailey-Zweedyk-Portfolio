@@ -16,9 +16,9 @@ const projects = [
     link: "https://github.com/HaileyZweedyk/Diabetes-Classification-Data-Mining-Project"
   },
   {
-    title: "EQUIP (Equine-Assisted Therapy Utilization and Intervention Platform)",
-    text: "Work in progress: Developing an application that allows therapists to analyze which horse characteristics are most effective for specific patient needs, using a combination of data analysis and visualization.",
-    tags: ["Python", "Streamlit", "Microsoft Azure"],
+    title: "Capstone Project - IN PROGRESS",
+    text: "Working on a group capstone project as the data analyst/scientist, building an app utilizing Microsoft Azure PostgreSQL database and Streamlit and/or Tableau for data visualization and analysis.",
+    tags: ["Python", "Microsoft Azure", "Tableau", "PostgreSQL"],
     link: ""
   }
 ];
