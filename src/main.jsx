@@ -67,11 +67,11 @@ function App() {
             <div className="proficiency">
               <div className="panel-title">SELF-ASSESSED PROFICIENCY</div>
               {[
-                ["Python", 85],
-                ["Pandas", 80],
-                ["PyTorch", 68],
-                ["SQL", 65],
-                ["Tableau", 45]
+                ["Python", 75],
+                ["Pandas", 70],
+                ["PyTorch",45],
+                ["Tableau", 45],
+                ["SQL", 35]
               ].map(([name, value]) => (
                 <div className="skill-row" key={name}>
                   <span>{name}</span>
